@@ -15,7 +15,7 @@ Smart Contracts for Compliance: Deploying smart contracts to automate compliance
 By creating a secure and tamper-proof repository for drug supply chain data, this project strives to revolutionize pharmaceutical tracking. Through the integration of blockchain technology, we aim to enhance the safety of medicines, protect public health, and contribute to a standardized drug safety ecosystem.
 
 This project is a part of internal assessment for the course "Blockchain Technology."
-Group details: 
+Group details
 Esha Shelar - 16010120136
 Arva Kachwala - 16010120152
 Rahul Tripathi - 16010120153
